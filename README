@@ -1,0 +1,5 @@
+Dado un valor integer valido el problema deberá, descomponer dicho número en la multiplicación susesiva de sus elementos hasta que el elemento resultante contenga unicamente un dígito.
+El problema deberá devolver el número de pasos necesarios para llegar a la solución.
+Ejemplos: 
+f(20) -> 2*0 = 0  <1 paso>
+f(45) -> 4*5 = 20 -> 2*0 = 0 <2 pasos>
